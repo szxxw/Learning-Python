@@ -1,2 +1,2 @@
 # Learning-Python
-Exercises of python basics
+Exercises of python 
